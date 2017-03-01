@@ -1,0 +1,48 @@
+.ui-index{
+    padding: 0 !important;
+}
+#map {
+    height: 200px !important;
+}
+#indexmap{
+    height: 300px !important;
+}
+#detailmap{
+    height: 300px !important;
+}
+.clearfix{
+    clear: both;
+}
+
+.ui-index .semuawisata{
+    padding: 10px;
+}
+
+.ui-index a.wisata{
+    background: #2196f3;
+    color: white;
+    margin-bottom: 2px;
+}
+
+.ui-index .wisata img{
+    float: left;
+    width: 25%;
+    height: 80px;
+    object-fit:cover;
+}
+.ui-index .wisata .detail{
+    float: left;
+    width: 70%;
+    padding-left: 5%;
+    background: #2196f3;
+    height: 80px;
+    margin-bottom: 4px;
+}
+.ui-index .wisata .detail h4{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.ui-index .wisata .detail .kota{
+    font-size: 12px;
+}
